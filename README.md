@@ -1,7 +1,7 @@
 
 ## Schema for repository:
 ```bash
-announcement/
+announcements/
 ├── 2002-01-01-00.md
 ├── 2002-01-01-01.md
 ├── 2002-01-02-00.md
