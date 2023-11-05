@@ -33,7 +33,7 @@ assets/
 ```markdown
 ---
 title: "Title of the Announcement"
-date: YYYY-MM-DD
+date: "YYYY-MM-DD"
 author: Author's Name
 tags: [tag1, tag2, tag3]
 summary: short summary of the announcement 
